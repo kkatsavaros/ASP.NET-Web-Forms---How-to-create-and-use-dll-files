@@ -1,0 +1,5 @@
+C:\Users\kkats\Documents\ASP.NET Web Forms Kudvenkat\46.Maths\bin\Release\46.Maths.dll
+C:\Users\kkats\Documents\ASP.NET Web Forms Kudvenkat\46.Maths\bin\Release\46.Maths.pdb
+C:\Users\kkats\Documents\ASP.NET Web Forms Kudvenkat\46.Maths\obj\Release\46.Maths.csproj.CoreCompileInputs.cache
+C:\Users\kkats\Documents\ASP.NET Web Forms Kudvenkat\46.Maths\obj\Release\46.Maths.dll
+C:\Users\kkats\Documents\ASP.NET Web Forms Kudvenkat\46.Maths\obj\Release\46.Maths.pdb
